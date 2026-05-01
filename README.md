@@ -1,4 +1,4 @@
-# Hi, I'm 수훈 👋
+# Hi, I'm SOOHUN 👋
 
 **25yr Engineer | Infra · DBA · Cloud | AWS · GCP | Python**
 
