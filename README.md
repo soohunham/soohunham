@@ -40,7 +40,12 @@
 
 ## 📬 Connect
 
-<a href="https://www.facebook.com/profile.php?id=100000919570985" target="_blank">Facebook</a>
+<a href="mailto:soohunham@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100000919570985" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 ---
 
