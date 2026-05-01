@@ -7,12 +7,10 @@
 ## 🧭 Career Arc
 
 ```
-2000–2003  On-premise Infra Systems     Windows / Linux / Solaris · MSSQL · Oracle RAC · EMC SAN
+2000–2003  On-premise Infra Systems     Windows / Linux / Solaris · MSSQL · Oracle RAC
 2004–2019  DBA & Tech Lead     MSSQL / MySQL Senior DBA · Technical Product Manager
-2020–Now   Cloud & Automation  AWS · GCP Multicloud Cost Optimization · Python  
+2020–Now   Cloud & Automation  AWS · GCP Multicloud Cost Optimization · Python
 ```
-
----
 
 ## 🛠 Tech Stack
 
