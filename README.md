@@ -1,15 +1,15 @@
 # Hi, I'm 수훈 👋
 
-**25yr Engineer | Infra · DBA · Cloud | AWS · GCP · Python**
+**25yr Engineer | Infra · DBA · Cloud | AWS · GCP | Python**
 
 ---
 
 ## 🧭 Career Arc
 
 ```
-2000–2004  Infra & Systems     Windows / Linux / Solaris · MSSQL · Oracle RAC · EMC SAN
-2005–2020  DBA & Tech Lead     MSSQL / MySQL Senior DBA · Technical Product Manager
-2021–Now   Cloud & Automation  AWS · GCP · Tencent · Python · Multicloud Cost Optimization
+2000–2003  On-premise Infra Systems     Windows / Linux / Solaris · MSSQL · Oracle RAC · EMC SAN
+2004–2019  DBA & Tech Lead     MSSQL / MySQL Senior DBA · Technical Product Manager
+2020–Now   Cloud & Automation  AWS · GCP Multicloud Cost Optimization · Python  
 ```
 
 ---
@@ -20,22 +20,21 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
 **Database**
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Languages**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 🔧 Currently Working On
 
-- ☁️ Multicloud cost optimization (AWS · GCP · Tencent)
-- 🐍 Python-based cloud resource automation
+- ☁️ Multicloud cost optimization (AWS · GCP)
 - 📊 DB monitoring & alerting pipeline
+- 🐍 Python-based cloud resource automation
 
 ---
 
